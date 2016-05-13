@@ -21,10 +21,10 @@
   "dependencies": {
     "binary": "^0.3.0",
     "fstream": "^1.0.8",
+    "match-stream": "0.0.2",
     "pullstream": "^0.4.1",
     "readable-stream": "^2.1.2",
-    "setimmediate": "^1.0.4",
-    "match-stream": "0.0.2"
+    "setimmediate": "^1.0.4"
   },
   "devDependencies": {
     "dirdiff": "0.0.1",
